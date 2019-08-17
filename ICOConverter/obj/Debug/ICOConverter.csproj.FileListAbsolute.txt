@@ -1,0 +1,7 @@
+R:\Libruary\Programming\C#\ICOConverter\ICOConverter\obj\Debug\ICOConverter.csproj.CoreCompileInputs.cache
+R:\Libruary\Programming\C#\ICOConverter\ICOConverter\bin\Debug\ICOConverter.exe.config
+R:\Libruary\Programming\C#\ICOConverter\ICOConverter\bin\Debug\ICOConverter.exe
+R:\Libruary\Programming\C#\ICOConverter\ICOConverter\bin\Debug\ICOConverter.pdb
+R:\Libruary\Programming\C#\ICOConverter\ICOConverter\obj\Debug\ICOConverter.exe
+R:\Libruary\Programming\C#\ICOConverter\ICOConverter\obj\Debug\ICOConverter.pdb
+R:\Libruary\Programming\C#\ICOConverter\ICOConverter\obj\Debug\ICOConverter.csprojResolveAssemblyReference.cache
